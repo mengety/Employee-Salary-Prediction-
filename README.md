@@ -2,11 +2,11 @@
 
 Welcome to my Employee Salary Prediction repository! This project focuses on building a machine learning model to predict employee salaries based on features such as experience, test scores, and interview scores.
  
-🚀 ### Project Overview
+### 🚀 Project Overview
 
 In this project, I worked with a hiring dataset containing both numerical and text-based data, along with missing values. The goal was to clean the data, handle text-to-number conversions, address missing data robustly, and train a predictive model.
 
-🧠 ### Key Learnings & Takeaways
+### 🧠 Key Learnings & Takeaways
 
 Working through this project helped me master several crucial data preprocessing techniques:
 
